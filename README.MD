@@ -1,17 +1,17 @@
 # Projeto Super Trunfo
 
-Este projeto de Super Trunfo simula o jogo em três níveis de dificuldade usando a linguagem C e matrizes.
+Este projeto de Super Trunfo simula o jogo em três níveis de dificuldade usando a linguagem C, estruturas de repetição e funções recursivas.
 
 ---
 
 # Nível Novato
-O desafio inicial com um tabuleiro 5x5, onde dois navios (um vertical e um horizontal) são posicionados e suas coordenadas são exibidas no console.
+O desafio inicial foca em estruturas de decisão `if` e `if-else`. O sistema permite o cadastro de duas cartas com suas propriedades e as compara com base em um atributo (população), determinando a vencedora.
 
 # Nível Aventureiro
-O tabuleiro foi expandido para 10x10. Quatro navios são posicionados, incluindo dois na diagonal, e o tabuleiro completo é exibido.
+Este nível explora o uso da estrutura `switch` e de comparações aninhadas. Um menu interativo permite ao usuário escolher o atributo para a comparação entre as duas cartas. A lógica de decisão determina a carta vencedora.
 
 # Nível Mestre
-Este nível implementa três habilidades especiais (Cone, Cruz e Octaedro). O programa exibe a área de efeito de cada habilidade usando matrizes.
+O desafio final eleva a complexidade. O sistema permite a comparação de dois atributos simultaneamente. A lógica de decisão utiliza operadores ternários e lógica aninhada para lidar com os múltiplos critérios e empates.
 
 ---
 
